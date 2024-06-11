@@ -161,7 +161,7 @@ Veggie: 23.68%
 
 The result we got were:- 
 
-**"C:\Users\AASTHA\OneDrive\Desktop\SQL pizza sales Project\Screenshots\Result A2.csv"**
+**["C:\Users\AASTHA\OneDrive\Desktop\SQL pizza sales Project\Screenshots\Result A2.csv"](https://1drv.ms/u/s!ArZKLkUETqnugZ0qv5z7ddJKJ9ragA?e=tPhNft)**
 
 
 3. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
